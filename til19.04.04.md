@@ -45,7 +45,7 @@ https://github.com/Min-92/HowToUse/blob/master/CodeReview.md
   - array 인덱스 거꾸로 출력하는 간단한 코드
 - 백준 그대로 출력하기
   - 입력받은대로 출력하는 코드
-  - 제한시간떄문에 반복문 한번만사용
+  - 제한시간떄문에 반복문 한번만사용  
 https://github.com/Min-92/algorithm/tree/master/19.04.04
 
 ## ToDo
