@@ -178,3 +178,13 @@ Code Review
 코드 리뷰 가이드인데 셀프 점검 사항으로 봐도 될 것 같아요.
 객체지향 체조 원칙도 한 번 보세요.
 https://developerfarm.wordpress.com/2012/02/03/object_calisthenics_summary/
+
+
+
+Honux [3:03 PM]
+https://goe0866-my.sharepoint.com/:b:/g/personal/honux77_pangyoe_goe_go_kr/ESD8dGTYRiZMgEJI_lVgs2UB4jFahQNia3on3QrUSlhiPQ?e=wDpvsv (edited) 
+
+오늘 스캔한 책인데 2012년도 책이고 웹에서 볼 수 있는 내용이지만 공유해 드려요.
+
+Honux [3:04 PM]
+목차가 참 좋으니 시간될때 목차라도 보세요.

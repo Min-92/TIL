@@ -46,7 +46,7 @@ https://github.com/Min-92/HowToUse/blob/master/CodeReview.md
 - 백준 그대로 출력하기
   - 입력받은대로 출력하는 코드
   - 제한시간떄문에 반복문 한번만사용  
-https://github.com/Min-92/algorithm/tree/master/19.04.04
+https://github.com/Min-92/algorithm/tree/master/code/19.04.04
 
 ## ToDo
  - C++, java 명령어 문법 정리
