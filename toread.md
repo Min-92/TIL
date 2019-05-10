@@ -188,3 +188,28 @@ https://goe0866-my.sharepoint.com/:b:/g/personal/honux77_pangyoe_goe_go_kr/ESD8d
 
 Honux [3:04 PM]
 목차가 참 좋으니 시간될때 목차라도 보세요.
+
+
+
+##### The 10 Best JavaScript ES6 Features
+
+<https://www.lifewire.com/best-javascript-es6-features-4579821>
+
+
+
+crong [10:04 AM]
+(생각보다 어려운)자바스크립트 모듈이야기.
+
+https://youtu.be/WGlT921ixx4
+YouTubeCodemotion
+Unbundling the JavaScript module bundler by Luciano Mammino
+
+몇 년간 이어온 흐름을 이해하기 좋아보이네요.
+
+
+
+JK [6:43 PM]
+자료구조 알고리듬 공부할 때 좋은 자료네요 https://hackerwins.github.io/2019-05-10/search-tree
+hackerwins blog
+아는만큼 Search tree
+회사 일을 하면서 자료구조를 구현할 기회는 별로 없었다. 하지만 최근에 데이터 타입 기반 동기화 플랫폼을 개발하면서 운 좋게도 일부 자료구조를 직접 구현해야만 했다. 나중에 잊어버리는 것보다는 짧은 지식이라도 적는게 나은 것 같아서 아는 만큼이라도 기록하기로 했다. 이 글은 마지막에 있는 링크들을 참고해서 정리했다.
